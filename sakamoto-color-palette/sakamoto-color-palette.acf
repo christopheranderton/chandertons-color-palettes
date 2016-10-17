@@ -1,0 +1,45 @@
+ACF 1.0
+sakamoto-color-palette.acf
+LibraryVersion: 1.0
+Copyright: 
+AboutMessage: 
+Names: Partial
+Rows: 12
+Columns: 12
+Entries: 15
+Prefix: 
+Suffix: 
+Type: Process
+Models: RGB
+PreferredModel: RGB
+Data:
+4626 4626 4626
+Onyx
+15934 15934 15934
+Rifle green
+35980 35980 35980
+Taupe gray
+48830 48830 48830
+Gray
+58853 58853 58853
+Platinum
+63479 63479 63479
+White Smoke
+51914 17733 15934
+Jasper
+64507 21588 19532
+Tomato
+65278 40349 39064
+Light salmon pink
+53199 39578 9252
+Goldenrod
+65535 48830 12079
+Saffron
+65535 55512 33153
+Jasmine
+5397 35723 17476
+North Texas Green
+8995 49344 25186
+Medium sea green
+29041 55769 39578
+Medium aquamarine

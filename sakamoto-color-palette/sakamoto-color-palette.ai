@@ -1,0 +1,71 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: Adobe Illustrator(r) 6.0
+%%For: ColorSchemer Studio
+%Title: sakamoto-color-palette.ai
+%CreationDate: 2016-10-17 15:47:23 +0000
+%%BoundingBox: 224 631 268 661
+%%HiResBoundingBox: 224.065 631 268 660.5208
+%%DocumentProcessColors: Black
+%%DocumentFonts: Verdana
+%%DocumentNeededResources: procset Adobe_level2_AI5 1.0 0
+%%+ procset Adobe_typography_AI5 1.0 0
+%%+ procset Adobe_screens_AI5 1.0 0
+%%+ procset Adobe_blend_AI5 1.0 0
+%%+ procset Adobe_Illustrator_AI6_vars Adobe_Illustrator_AI6
+%%+ procset Adobe_Illustrator_AI5 1.0 0
+%AI5_FileFormat 2.0
+%AI3_ColorUsage: Color
+%%AI6_ColorSeparationSet: 1 1 (AI6 Default Color Separation Set)
+%%+ Options: 1 16 0 1 0 1 1 1 0 1 1 1 1 18 0 0 0 0 0 0 0 0 -1 -1
+%%+ PPD: 1 21 0 0 60 45 2 2 1 0 0 1 0 0 0 0 0 0 0 0 0 0 ()
+%AI3_TemplateBox: 306 396 306 396
+%AI3_TileBox: 31 31 583 761
+%AI3_DocumentPreview: None
+%AI5_ArtSize: 612 792
+%AI5_RulerUnits: 2
+%AI5_ArtFlags: 1 0 0 1 0 0 0 1 0
+%AI5_TargetResolution: 800
+%AI5_NumLayers: 1
+%AI5_OpenToView: -78 780 1 826 581 58 0 1 2 40
+%AI5_OpenViewLayers: 1
+%%EndComments
+%%BeginProlog
+%%EndProlog
+%%BeginSetup
+%AI5_BeginPalette
+0 0 Pb
+0.070588 0.070588 0.070588 Xa
+Pc
+0.243137 0.243137 0.243137 Xa
+Pc
+0.549020 0.549020 0.549020 Xa
+Pc
+0.745098 0.745098 0.745098 Xa
+Pc
+0.898039 0.898039 0.898039 Xa
+Pc
+0.968627 0.968627 0.968627 Xa
+Pc
+0.792157 0.270588 0.243137 Xa
+Pc
+0.984314 0.329412 0.298039 Xa
+Pc
+0.996078 0.615686 0.596078 Xa
+Pc
+0.811765 0.603922 0.141176 Xa
+Pc
+1.000000 0.745098 0.184314 Xa
+Pc
+1.000000 0.847059 0.505882 Xa
+Pc
+0.082353 0.545098 0.266667 Xa
+Pc
+0.137255 0.752941 0.384314 Xa
+Pc
+0.443137 0.850980 0.603922 Xa
+Pc
+PB
+%AI5_EndPalette
+%%EndSetup
+%%Trailer
+%%EOF
