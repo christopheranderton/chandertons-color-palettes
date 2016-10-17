@@ -1,0 +1,31 @@
+ACF 1.0
+skin-tones-a1-color-palette.acf
+LibraryVersion: 1.0
+Copyright: 
+AboutMessage: 
+Names: Partial
+Rows: 12
+Columns: 12
+Entries: 8
+Prefix: 
+Suffix: 
+Type: Process
+Models: RGB
+PreferredModel: RGB
+Data:
+60138 55512 54998
+Color 1
+56540 50886 47031
+Color 2
+55512 52171 47545
+Color 3
+52428 45746 41891
+Color 4
+47545 40863 34952
+Color 5
+26471 19789 13878
+Color 6
+33924 17733 13878
+Color 7
+44975 24672 25700
+Color 8
