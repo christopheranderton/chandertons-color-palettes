@@ -1,7 +1,7 @@
 #  Sakamoto Color Palette
 
 ## Preview
-![Preview Image of Sakamoto Color Palette](https://github.com/christopheranderton/chandertons-color-palettes/sakamoto-color-palette/preview.png)
+![Preview Image of Sakamoto Color Palette](https://raw.githubusercontent.com/christopheranderton/chandertons-color-palettes/master/sakamoto-color-palette/preview.png)
 
 
 ## Included File Formats
