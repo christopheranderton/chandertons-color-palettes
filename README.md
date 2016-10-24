@@ -9,6 +9,7 @@ My collection of color palettes and swatches generated over the years.
 - [Sakamoto Color Palette](https://github.com/christopheranderton/chandertons-color-palettes/tree/master/sakamoto-color-palette)
 
 - [Skin Tones A1 Color Palette](https://github.com/christopheranderton/chandertons-color-palettes/tree/master/skin-tones-a1-color-palette)
+
 ## File Format Guide
 
 | Suffix         | Format                                     | 
