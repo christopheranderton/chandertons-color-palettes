@@ -1,8 +1,5 @@
 #  Chanderton's Color Palettes
-*Not too much content right now. But watch this space.*   
-
-My collection of color palettes and swatches generated over the years.
-
+Old
 ----------------------------------
 
 ## Color Palette List
